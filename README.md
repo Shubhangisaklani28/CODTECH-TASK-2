@@ -67,3 +67,7 @@ python port_scanner.py example.com 1 1024 --workers 200 --verbose
 This script is ideal for network administrators and security professionals to perform basic network security assessments and ensure the security of network services.
 
 
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/89c6ee3b-aa16-4144-bd34-3eb4e1cbe84d">
+
+
+
