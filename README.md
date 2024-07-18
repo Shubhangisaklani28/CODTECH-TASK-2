@@ -1,9 +1,9 @@
-Name: Shubhangi Saklani   
+Name: SHUBHANGI SAKLANI       
 Company: CODTECH IT SOLUTIONS   
 ID: CT6WDS212   
 Domain: Cyber Security and Ethical Hacking   
 Duration: June to July 2024    
-Mentor:
+Mentor: SRAVANI GOUNI
 
 
 ### Overview of the Project
